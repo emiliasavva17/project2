@@ -1,0 +1,101 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+  background-image: url('../img/marketing.png');
+	 background-repeat: no-repeat;
+	background-attachment: fixed;
+  background-size: cover;
+	background-position: center;
+	
+}
+
+
+
+#h{
+	margin-top: 30px;
+	display: flex;
+	justify-content: space-between;
+	align-content: space-between;
+	
+	
+	
+}
+
+span{  
+	
+	background: rgba(199,194,194, 69%);
+	border-radius: 2em;
+	padding: 7% 40px  6% 40px;
+	backdrop-filter:blur(2px);
+
+}
+#service{ 
+	margin-top: 0;
+	padding-top: 0;
+	font-family:Mshtakan;
+	display: flex;
+	font-size: 40px;
+	text-align: center;
+	color: white;
+}
+
+#x{
+	margin-top: 0;
+	padding-top: 0;
+	display: flex;
+ justify-content: flex-start;
+	height: 100px;
+	
+}
+#y{
+	margin-top: 0;
+	padding-top: 0;
+	display: flex;
+ 
+	height: 100px;
+	
+}
+
+#design{
+	margin-top: 40px;
+	 width: 40%;
+	background-color: rgba(255,255,255,0.7);
+	 backdrop-filter:blur(8px);
+	padding: 50px 80px 80px 80px;
+	
+	
+}
+#designp{
+	padding-top: 0;
+	margin-top: 0;
+	color: #707070;
+	font-size: 20px;
+}
+
+
+#footer {
+    position: absolute;
+    bottom: 30px;
+    width: 100%;
+}
+
+#main{
+	
+	 text-align: center;
+	font-size: 30px;
+	color: white;
+	background: rgba(180,180,180, 69%);
+	 backdrop-filter:blur(3px);
+	padding:  5px 15px 5px 15px;
+	margin: 0 0 0 0 ;
+	border-radius: 50px;
+	
+}
+
+#maindiv{
+	display: flex;
+	justify-content: center;
+	align-content: center;
+	margin: 0 0 0 0 ;
+}
